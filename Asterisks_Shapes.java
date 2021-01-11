@@ -68,7 +68,7 @@ public class Shape {
 	int N = s.nextInt();
 	System.out.print("choose ");
 
-        int shape = 4;
+        int shape = 2;
         switch (shape) {
             case 1:
                 box();
